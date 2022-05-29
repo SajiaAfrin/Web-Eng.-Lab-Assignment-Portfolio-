@@ -1,3 +1,3 @@
 # Sajia-s-Portfolio
 
-![Banner](./assets/banner.jpg)
+![Banner](./image/banner.jpg)
